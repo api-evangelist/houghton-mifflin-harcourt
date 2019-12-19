@@ -1,0 +1,66 @@
+{
+    "name": "Houghton Mifflin Harcourt",
+    "description": "<p><span>Houghton Mifflin Harcourt's (HMH) Developer Portal is an HMH Labs initiative to expose the HMH APIs to others, including customers and third party developers. This creates an exciting opportunity for developers to build solutions that are compatible with those that our customers already know and trust. Initially, the APIs will connect with a sandbox environment and, down the road, with the rich and diverse world of Houghton Mifflin Harcourt's offerings. Ultimately, our goal is to provide greater opportunities for interoperability and a seamless user experience for teachers, students and parents.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hmh_logo_detail.gif",
+    "tags": [
+        "api provider",
+        "content",
+        "getting started example",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/houghton-mifflin-harcourt\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Houghton Mifflin Harcourt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hmh_logo_detail.gif",
+            "humanURL": "http:\/\/www.hmhco.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/houghton-mifflin-harcourt-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/houghton-mifflin-harcourt-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.hmhco.com\/blog"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.hmhco.com\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.hmhco.com\/docs"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/developer.hmhco.com\/faqs"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developer.hmhco.com\/getting-started"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/developer.hmhco.com\/signup"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.hmhco.com\/"
+        }
+    ]
+}
